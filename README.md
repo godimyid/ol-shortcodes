@@ -1,3 +1,14 @@
+---
+
+##  Support This Plugin
+
+If this OL Shortcodes plugin helps you, feel free to support:
+
+[![Donate via Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=flat&logo=saweria)](https://saweria.co/godi)  
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=flat&logo=paypal)](https://paypal.me/godimyid)
+
+---
+
 # OL Shortcodes (Search, Account, Add Listing)
 
 Custom shortcodes for **OneListing + Directorist**, designed to be easy to drop into headers/footers and **Elementor**.
